@@ -14,10 +14,10 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Sai Kumar, nice to meet you. Please take a look around.</p>
+              <p>Hi. I'm Shailendra Singh, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>As a 3rd-year student pursuing Computer Science and Engineering from VIT Bhopal, I am deeply passionate about building exceptional
+              <p>As a 4th-year student pursuing Computer Science and Engineering from VIT Bhopal, I am deeply passionate about building exceptional
                  software solutions that enhance the lives of those around me. With a strong foundation in programming and a keen eye for detail, 
                  I am constantly seeking opportunities to apply my skills and contribute to the field of software development. I am currently exploring
                 job opportunities where I can utilize my knowledge and creativity to create meaningful software products that make a difference.

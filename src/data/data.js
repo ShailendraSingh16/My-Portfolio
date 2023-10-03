@@ -1,7 +1,10 @@
-import ageCalculator from '../assets/projects/ageCalculator.jpeg'
-import calculator from '../assets/projects/calculator.jpg'
+import ageCalculator from '../assests/projects/ageCalculator.jpg'
+import calculator from '../assests/projects/calculator.jpg'
 import colorPicker from '../assests/projects/colorPicker.jpg'
 import wordCounter from '../assests/projects/wordCounter.jpg'
+import sortingVisualizer from '../assests/projects/sortingVisualizer.png'
+import smartLearn from '../assests/projects/smartLearn.png'
+import portfolio from '../assests/projects/Portfolio.png'
 
 export const data=[
     {
@@ -20,10 +23,10 @@ export const data=[
     },
     {
         id:3,
-        name:"React JS Application",
-        image:colorPicker,
-        github:"https://github.com/ShailendraSingh16/color-picker",
-        live:"https://shailendrasingh16.github.io/color-picker/",
+        name:"Shailendra Singh Portfolio",
+        image:portfolio,
+        github:"https://github.com/ShailendraSingh16/SmartLearn",
+        live:"",
     },
     {
         id:4,
@@ -32,6 +35,21 @@ export const data=[
         github:"https://github.com/ShailendraSingh16/word-counter",
         live:"https://shailendrasingh16.github.io/word-counter/",
     },
+    {
+        id:5,
+        name:"Sorting Visualizer",
+        image:sortingVisualizer,
+        github:"https://github.com/ShailendraSingh16/Sorting-Visualizer",
+        live:"https://sorting-visualizer-chi-three.vercel.app/",
+    },
+    {
+        id:6,
+        name:"SmartLearn",
+        image:smartLearn,
+        github:"https://github.com/ShailendraSingh16/SmartLearn",
+        live:"https://smart-learn-alpha.vercel.app/",
+    },
+
 
 
 ]
