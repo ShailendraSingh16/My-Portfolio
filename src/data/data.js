@@ -5,14 +5,15 @@ import wordCounter from '../assests/projects/wordCounter.jpg'
 import sortingVisualizer from '../assests/projects/sortingVisualizer.png'
 import smartLearn from '../assests/projects/smartLearn.png'
 import portfolio from '../assests/projects/Portfolio.png'
+import codeSync from '../assests/projects/codeSync.png'
 
 export const data=[
     {
         id:1,
-        name:"React JS Application",
-        image:ageCalculator,
-        github:"https://github.com/ShailendraSingh16/Age-Calculator",
-        live:"https://shailendrasingh16.github.io/Age-Calculator/",
+        name:"Code Sync",
+        image:codeSync,
+        github:"https://github.com/ShailendraSingh16/Code-Sync",
+        live:"https://code-sync-mz5i.vercel.app/",
     },
     {
         id:2,
